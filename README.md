@@ -13,4 +13,9 @@ On the other hand, weird behavior like quantum stuff seemingly being entangled m
 
 
 ## in praise of sloppiness
-nothing is perfect. there is no escaping failure. you can't eliminate tech debt. i will go around your approval process. things will crash and burn. perfectionism is a sin.
+nothing is perfect. there is no escaping failure. you can't eliminate tech debt in advance. i will go around your approval process. things must crash and burn. perfectionism is a sin.
+
+## notypes
+Please don't tell me your type system needs no escape hatches. It's like having a driving coach in the front seat of your car at all times. Good at first, but then it only adds stress and reaction time. You can spend a good chunk of time either bikeshedding or just modeling around artificial abstractions.
+I think a parser that converts between different languages might give one more freedom than the most expressive type system in the world.
+
